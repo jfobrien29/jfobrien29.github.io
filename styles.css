@@ -92,11 +92,15 @@ a:hover {
 }
 
 .about-author img {
-    border-radius: 100%;
+    border-radius: 50%;
 }
 
 .post-author span {
     margin-left: 16px;
+}
+
+.post-container:nth-child(even) {
+    background-color: #f2f2f2;
 }
 
 .post-date {
