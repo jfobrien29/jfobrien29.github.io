@@ -1,4 +1,4 @@
-# THE JACK O'BRIEN PERSONAL WEBSITE
+# THE JACK O'BRIEN PERSONAL SITE
 Congratulations if you've found your way here!
 
 I somtimes tailor my "website" for the companies I am applying to.
